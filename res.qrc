@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/arrow-pointer-solid.png</file>
+        <file>image/clock-regular.png</file>
+        <file>image/shuffle-solid.png</file>
+        <file>image/linkName.png</file>
+    </qresource>
+</RCC>
